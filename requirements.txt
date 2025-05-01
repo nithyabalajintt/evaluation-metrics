@@ -1,0 +1,5 @@
+langchain==0.0.238  # Check latest version
+openai==0.27.8
+ragas==0.3.1        # Check latest version for evaluation
+python-dotenv==1.0.0
+chromadb==0.3.26    # Ensure it aligns with LangChain compatibility

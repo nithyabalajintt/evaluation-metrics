@@ -1,0 +1,127 @@
+[
+  {
+    "index":0,
+    "question":"What was the total revenue from operations for TCS in Q4 2025?",
+    "ground_truth":"Revenue from operations was \u20b964,479 crore in Q4 2025."
+  },
+  {
+    "index":1,
+    "question":"What dividend was recommended by the TCS Board for FY 2025?",
+    "ground_truth":"The Board recommended a final dividend of \u20b930 per share for FY 2025."
+  },
+  {
+    "index":2,
+    "question":"How did TCS\u2019s profit after tax for FY 2025 compare to FY 2024?",
+    "ground_truth":"Profit for FY 2025 was \u20b948,797 crore, compared to \u20b946,099 crore in FY 2024."
+  },
+  {
+    "index":3,
+    "question":"What was the basic EPS for TCS in FY 2025?",
+    "ground_truth":"Basic earnings per share for FY 2025 was \u20b9134.19."
+  },
+  {
+    "index":4,
+    "question":"What was the total dividend payout per share for FY 2025?",
+    "ground_truth":"Total dividend per share for FY 2025 was \u20b9126."
+  },
+  {
+    "index":5,
+    "question":"Who audited TCS\u2019s consolidated financial results for FY 2025?",
+    "ground_truth":"B S R & Co. LLP audited the consolidated financial results."
+  },
+  {
+    "index":6,
+    "question":"What was the cash and cash equivalents at the end of FY 2025?",
+    "ground_truth":"Cash and cash equivalents at the end of FY 2025 were \u20b98,342 crore."
+  },
+  {
+    "index":7,
+    "question":"What were the top 3 segments by revenue in FY 2025?",
+    "ground_truth":"BFSI \u20b994,597 crore, Communication & Media \u20b945,893 crore, Consumer Business \u20b940,197 crore."
+  },
+  {
+    "index":8,
+    "question":"What was the exchange difference on foreign operations in Q4 2025?",
+    "ground_truth":"Exchange differences on translation of financial statements of foreign operations: \u20b9500 crore."
+  },
+  {
+    "index":9,
+    "question":"How much tax did TCS pay in Q4 2025?",
+    "ground_truth":"Total tax expense in Q4 2025 was \u20b94,109 crore."
+  },
+  {
+    "index":10,
+    "question":"What was the total comprehensive income for TCS in Q4 2025?",
+    "ground_truth":"Total comprehensive income for Q4 2025 was \u20b912,855 crore."
+  },
+  {
+    "index":11,
+    "question":"How much did TCS spend on employee benefits in Q4 2025?",
+    "ground_truth":"Employee benefit expenses were \u20b936,762 crore in Q4 2025."
+  },
+  {
+    "index":12,
+    "question":"What was the total tax expense for the full FY 2025?",
+    "ground_truth":"Total tax expense for FY 2025 was \u20b916,534 crore."
+  },
+  {
+    "index":13,
+    "question":"Which subsidiaries were newly acquired in FY 2025?",
+    "ground_truth":"TRIL Bengaluru Real Estate Five and Six Limited (Acquired w.e.f. 29 January 2025)."
+  },
+  {
+    "index":14,
+    "question":"How much did TCS pay in dividends in FY 2025?",
+    "ground_truth":"Total dividend paid was \u20b944,864 crore."
+  },
+  {
+    "index":15,
+    "question":"What were the other expenses for Q4 2025?",
+    "ground_truth":"Other expenses for Q4 2025 were \u20b97,989 crore."
+  },
+  {
+    "index":16,
+    "question":"What was the final dividend declared for Q4 2025?",
+    "ground_truth":"A final dividend of \u20b930 per share was declared for Q4 2025."
+  },
+  {
+    "index":17,
+    "question":"What is the Corporate Identity Number (CIN) of TCS?",
+    "ground_truth":"CIN: L22210MH1995PLC084781"
+  },
+  {
+    "index":18,
+    "question":"Who signed the financial results as the Company Secretary?",
+    "ground_truth":"Yashaswin Sheth signed as the Company Secretary."
+  },
+  {
+    "index":19,
+    "question":"What was the EPS (Earnings Per Share) in Q4 2025?",
+    "ground_truth":"EPS in Q4 2025 was \u20b933.79."
+  },
+  {
+    "index":20,
+    "question":"What was the depreciation and amortisation expense in Q4 2025?",
+    "ground_truth":"Depreciation and amortisation expense was \u20b91,379 crore."
+  },
+  {
+    "index":21,
+    "question":"How did the revenue from Communication, Media and Technology change YoY?",
+    "ground_truth":"It grew from \u20b939,391 crore in FY 2024 to \u20b945,893 crore in FY 2025."
+  },
+  {
+    "index":22,
+    "question":"What was the total income for TCS in FY 2025?",
+    "ground_truth":"Total income for FY 2025 was \u20b92,59,286 crore."
+  },
+  {
+    "index":23,
+    "question":"What was the net change in foreign currency cash equivalents in FY 2025?",
+    "ground_truth":"Exchange difference was \u20b9174 crore."
+  },
+  {
+    "index":24,
+    "question":"What amount did TCS spend on equipment and software licences in FY 2025?",
+    "ground_truth":"\u20b911,648 crore was spent on equipment and software licences in FY 2025."
+  }
+]
